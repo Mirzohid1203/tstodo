@@ -10,11 +10,9 @@ function App() {
         <Card className="w-full max-w-md shadow-xl border-none">
           <CardHeader className="space-y-1">
             <CardTitle className="text-3xl font-bold text-center text-slate-800">
-              Mening Vazifalarim
+              TODO   LIST
             </CardTitle>
-            <p className="text-center text-sm text-slate-500">
-              Bugun nima qilamiz?
-            </p>
+
           </CardHeader>
           <CardContent>
             <TodoForm />
